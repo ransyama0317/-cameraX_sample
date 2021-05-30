@@ -1,4 +1,4 @@
-package com.example.debugaifocuscamera;
+package com.akhil.cameraxjavademo;
 
 import org.junit.Test;
 

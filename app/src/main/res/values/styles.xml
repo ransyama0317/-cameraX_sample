@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="CustomSwitch3" parent="Theme.AppCompat.Light">
+        <!--ボタンON時のボタンの通り道（透明度30%）・ボタンとタッチフィードバックカラー-->
+        <item name="colorControlActivated">#000000</item>
+        <!--ボタンOFF時のボタンの通り道（透明度30%）-->
+        <item name="android:colorForeground">#000000</item>
+        <!-- OFFボタンを押したときのタッチフィードバックカラー -->
+        <item name="colorControlHighlight">#000000</item>
+
+    </style>
+
+</resources>
